@@ -11,7 +11,7 @@
 
 HOST=@
 DOMAIN=ramsus.lat
-PASSWORD=36234b88d3824206965336e97996cb40
+PASSWORD=1234567890abcdef1234567890abcdef
 INTERVAL=30
 
 dns_ip=$(dig $HOST.$DOMAIN +short) #Check the registered IP in DNS
